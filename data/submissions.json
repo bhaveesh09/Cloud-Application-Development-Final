@@ -1,0 +1,23 @@
+[
+    {
+        "assignmentId": 420,
+        "studentId": 123,
+        "timestamp": "2023-06-09T17:00:00-07:00",
+        "grade": 0,
+        "file": null
+    },
+    {
+        "assignmentId": 420,
+        "studentId": 123,
+        "timestamp": "2023-06-09T17:00:00-07:00",
+        "grade": 0,
+        "file": null
+    },
+    {
+        "assignmentId": 420,
+        "studentId": 123,
+        "timestamp": "2023-06-09T17:00:00-07:00",
+        "grade": 0,
+        "file": null
+    }
+]

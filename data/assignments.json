@@ -1,0 +1,20 @@
+[
+    {
+        "courseId": 1,
+        "title": "Assignment 5",
+        "points": 100,
+        "due": "2023-06-14T17:00:00-07:00"
+    },
+    {
+        "courseId": 3,
+        "title": "Assignment 10: Wearing Shades",
+        "points": 1000000,
+        "due": "2023-06-14T17:00:00-07:00"
+    },
+    {
+        "courseId": 2,
+        "title": "Expo Assignment",
+        "points": 100,
+        "due": "2023-06-09T17:00:00-07:00"
+    }
+]

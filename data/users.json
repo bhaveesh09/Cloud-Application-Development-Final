@@ -1,0 +1,44 @@
+[
+	{
+        "name": "Admin",
+        "email": "admin@oregonstate.edu",
+        "password": "admin",
+        "role": "admin"
+    },
+    {
+        "name": "Rob Hess",
+        "email": "hessro@oregonstate.edu",
+        "password": "coolguy42069",
+        "role": "instructor"
+    },
+	{
+        "name": "Jane Doe",
+        "email": "doej@oregonstate.edu",
+        "password": "12345",
+        "role": "student"
+    },
+	{
+        "name": "John Smith",
+        "email": "smithj@oregonstate.edu",
+        "password": "12345",
+        "role": "student"
+    },
+	{
+        "name": "Vishnu Kalidas",
+        "email": "kalidasv@oregonstate.edu",
+        "password": "hunter1",
+        "role": "student"
+    },
+	{
+        "name": "Bhaveesh Beemireddy",
+        "email": "beemres@oregonstate.edu",
+        "password": "hunter2",
+        "role": "student"
+    },
+	{
+        "name": "Keenan Newcomer",
+        "email": "newcomek@oregonstate.edu",
+        "password": "hunter3",
+        "role": "student"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "subject": "CS",
+        "number": "493",
+        "title": "Cloud Application Development",
+        "term": "sp23",
+        "instructorId": 2
+    },
+    {
+        "subject": "CS",
+        "number": "463",
+        "title": "Senior Capstone 3",
+        "term": "sp23",
+        "instructorId": 2
+    },
+    {
+        "subject": "BC",
+        "number": "420",
+        "title": "Intro to Being Cool",
+        "term": "sp23",
+        "instructorId": 2
+    }
+]
